@@ -1,0 +1,41 @@
+.balloon {
+    width: 75px;
+    height: 120px;
+    border-radius: 50%;
+    margin-top: 900px;
+    position: absolute;
+    opacity: 100%;
+    text-align: center;
+}
+
+.balloon1 {
+    background-color: tomato;
+    left: 200px;
+    bottom: 15px;
+    display: block;
+}
+
+.balloon2 {
+    background-color: royalblue;
+    left: 330px;
+    bottom: 15px;
+    display: block;
+}
+.balloon3 {
+    background-color: royalblue;
+    left: 460px;
+    bottom: 15px;
+    display: block;
+}
+.balloon4 {
+    background-color: royalblue;
+    left: 590px;
+    bottom: 15px;
+    display: block;
+}
+.balloon5 {
+    background-color: royalblue;
+    left: 70px;
+    bottom: 15px;
+    display: block;
+}
